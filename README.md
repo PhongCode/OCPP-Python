@@ -1,1 +1,3 @@
 # OCPP-Python
+### What is OCPP ? 
+Open Charge Point Protocol (OCPP) is an open standard communication protocol. It is used to manage electric vehicle (EV) charging stations. It was developed by the Open Charge Alliance and is designed to enable interoperability between different charging stations and back-office systems. This protocol is used to exchange information between charging stations and a central system, allowing charging stations to be remotely monitored and controlled. The protocol is widely used in the EV charging industry to manage the charging of EVs and to support various business models and pricing structures.
